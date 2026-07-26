@@ -1,2 +1,3 @@
 # Cicada
-persistant memory ai agent 
+persistant memory ai agent for cockroach DB
+
